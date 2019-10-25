@@ -8,7 +8,7 @@
     "contributors:generate": "all-contributors generate"
   },
   "devDependencies": {
-    "@types/jest": "^23.3.1",
+    "@types/jest": "^24.0.20",
     "@types/react": "^16.3.14",
     "@types/react-dom": "^16.0.5",
     "@types/webpack-env": "^1.13.6",
