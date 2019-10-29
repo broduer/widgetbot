@@ -84,7 +84,7 @@
     "autobind-decorator": "^2.1.0",
     "babel-polyfill": "^6.26.0",
     "color": "^3.0.0",
-    "emotion": "^10.0.0",
+    "emotion": "^10.0.23",
     "emotion-theming": "^10.0.19",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
