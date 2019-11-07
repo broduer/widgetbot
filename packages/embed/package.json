@@ -99,7 +99,7 @@
     "ramda": "^0.25.0",
     "rc-tooltip": "^3.7.2",
     "react-apollo": "^2.1.11",
-    "react-app-rewired": "^2.0.2",
+    "react-app-rewired": "^2.1.5",
     "react-custom-scrollbars": "^4.2.1",
     "react-easy-emoji": "^1.2.0",
     "react-emotion": "^10.0.0",
