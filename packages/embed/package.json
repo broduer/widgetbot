@@ -95,7 +95,7 @@
     "match-sorter": "^2.2.3",
     "memoizee": "^0.4.14",
     "moment": "^2.22.2",
-    "qs": "^6.5.2",
+    "qs": "^6.9.1",
     "ramda": "^0.25.0",
     "rc-tooltip": "^3.7.2",
     "react-apollo": "^2.1.11",
