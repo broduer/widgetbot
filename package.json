@@ -11,7 +11,7 @@
     "patch": "patch -i patches/** -p0 -s -r /dev/null --no-backup-if-mismatch > /dev/null"
   },
   "dependencies": {
-    "react": "^16.4.2",
+    "react": "^16.12.0",
     "react-dom": "^16.4.2"
   },
   "devDependencies": {
