@@ -12,7 +12,7 @@
     "@types/react": "^16.3.14",
     "@types/react-dom": "^16.0.5",
     "@types/webpack-env": "^1.13.6",
-    "all-contributors-cli": "^5.4.0",
+    "all-contributors-cli": "^6.11.1",
     "babel-core": "^6.26.3",
     "babel-plugin-emotion": "^9.2.8",
     "babel-plugin-graphql-tag": "^1.6.0",
