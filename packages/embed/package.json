@@ -59,7 +59,7 @@
     "@types/lodash": "^4.14.116",
     "@types/memoizee": "^0.4.2",
     "@types/qs": "^6.5.1",
-    "@types/ramda": "^0.25.36",
+    "@types/ramda": "^0.26.37",
     "@types/raven-js": "^3.10.0",
     "@types/rc-tooltip": "^3.4.12",
     "@types/react-custom-scrollbars": "^4.0.5",
