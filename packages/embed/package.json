@@ -61,7 +61,7 @@
     "@types/qs": "^6.5.1",
     "@types/ramda": "^0.25.36",
     "@types/raven-js": "^3.10.0",
-    "@types/rc-tooltip": "^3.4.12",
+    "@types/rc-tooltip": "^3.7.2",
     "@types/react-custom-scrollbars": "^4.0.5",
     "@types/react-notification-system": "^0.2.38",
     "@types/react-router-dom": "^4.3.0",
