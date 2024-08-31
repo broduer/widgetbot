@@ -113,7 +113,7 @@
     "react-virtualized": "^9.20.1",
     "recompose": "0.30.0",
     "scroll-into-view-if-needed": "^2.2.16",
-    "simple-markdown": "^0.4.2",
+    "simple-markdown": "^0.6.1",
     "socket.io-client": "^2.1.1",
     "subscriptions-transport-ws": "^0.9.14",
     "typedi": "^0.8.0"
